@@ -1,6 +1,6 @@
 ## ✨ Wuxia Dreams: Your Gateway to the Martial Arts World
 
-[Wuxia Dreams](https://wuxiadreams.com)​ is a dedicated platform for enthusiasts of Chinese martial arts literature and culture. The name itself, "Wuxia Dreams," evokes the fantastical and heroic world of martial artists (Wuxia) and the aspirational nature of their journeys.
+<a href="https://wuxiadreams.com" target="_blank">Wuxia Dreams​</a> is a dedicated platform for enthusiasts of Chinese martial arts literature and culture. The name itself, "Wuxia Dreams," evokes the fantastical and heroic world of martial artists (Wuxia) and the aspirational nature of their journeys.
 
 ### ❓ What is Wuxia Dreams?
 
