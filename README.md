@@ -54,6 +54,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Peerless Battle Spirit](https://wuxiadreams.com/novel/peerless-battle-spirit) by [Supreme Villain (极品妖孽)](https://wuxiadreams.com/author/supreme-villain)
 - [Martial Arts Master](https://wuxiadreams.com/novel/martial-arts-master) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
 - [Great Dream Master](https://wuxiadreams.com/novel/great-dream-master) by [Wang Yu (忘语)](https://wuxiadreams.com/author/wang-yu)
+- [Throne of Magical Arcana](https://wuxiadreams.com/novel/throne-of-magical-arcana) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
