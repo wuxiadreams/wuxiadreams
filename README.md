@@ -56,6 +56,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Great Dream Master](https://wuxiadreams.com/novel/great-dream-master) by [Wang Yu (忘语)](https://wuxiadreams.com/author/wang-yu)
 - [Throne of Magical Arcana](https://wuxiadreams.com/novel/throne-of-magical-arcana) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
 - [Tales of Herding Gods](https://wuxiadreams.com/novel/tales-of-herding-gods) by [Pig Nerd (宅猪)](https://wuxiadreams.com/author/pig-nerd)
+- [Lord Xue Ying](https://wuxiadreams.com/novel/lord-xue-ying) by [I Eat Tomatoes (我吃西红柿)](https://wuxiadreams.com/author/i-eat-tomatoes)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
