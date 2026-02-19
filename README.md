@@ -58,6 +58,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Tales of Herding Gods](https://wuxiadreams.com/novel/tales-of-herding-gods) by [Pig Nerd (宅猪)](https://wuxiadreams.com/author/pig-nerd)
 - [Lord Xue Ying](https://wuxiadreams.com/novel/lord-xue-ying) by [I Eat Tomatoes (我吃西红柿)](https://wuxiadreams.com/author/i-eat-tomatoes)
 - [Reincarnation of the Strongest Sword God](https://wuxiadreams.com/novel/reincarnation-of-the-strongest-sword-god) by [Lucky Old Cat (天运老猫)](https://wuxiadreams.com/author/lucky-old-cat)
+- [I Just Want to Slack Off in Cultivation](https://wuxiadreams.com/novel/i-just-want-to-slack-off-in-cultivation) by [Explosive Little Latte (爆炸小拿铁)](https://wuxiadreams.com/author/explosive-little-latte)
+- [Stellar Transformation](https://wuxiadreams.com/novel/stellar-transformation) by [I Eat Tomatoes (我吃西红柿)](https://wuxiadreams.com/author/i-eat-tomatoes)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
