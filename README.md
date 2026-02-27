@@ -62,6 +62,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Stellar Transformation](https://wuxiadreams.com/novel/stellar-transformation) by [I Eat Tomatoes (我吃西红柿)](https://wuxiadreams.com/author/i-eat-tomatoes)
 - [The Demonic King Chases His Wife: The Rebellious Good-for-Nothing Miss](https://wuxiadreams.com/novel/the-demonic-king-chases-his-wife-the-rebellious-good-for-nothing-miss) by [Su Xiao Nuan (苏小暖)](https://wuxiadreams.com/author/su-xiao-nuan)
 - [Ze Tian Ji](https://wuxiadreams.com/novel/ze-tian-ji) by [Mao Ni (猫腻)](https://wuxiadreams.com/author/mao-ni)
+- [Renegade Immortal](https://wuxiadreams.com/novel/renegade-immortal) by [Er Gen (耳根)](https://wuxiadreams.com/author/er-gen)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
