@@ -65,6 +65,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Renegade Immortal](https://wuxiadreams.com/novel/renegade-immortal) by [Er Gen (耳根)](https://wuxiadreams.com/author/er-gen)
 - [The Great Ruler](https://wuxiadreams.com/novel/the-great-ruler) by [Heavenly Silkworm Potato (天蚕土豆)](https://wuxiadreams.com/author/heavenly-silkworm-potato)
 - -[The Sage Who Transcended Samsara](https://wuxiadreams.com/novel/the-sage-who-transcended-samsara) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
+- [Top Tier Providence, Secretly Cultivate for a Thousand Years](https://wuxiadreams.com/novel/top-tier-providence-secretly-cultivate-for-a-thousand-years) by [Ren Wo Xiao (任我笑)](https://wuxiadreams.com/author/ren-wo-xiao)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
