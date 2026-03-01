@@ -67,6 +67,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - -[The Sage Who Transcended Samsara](https://wuxiadreams.com/novel/the-sage-who-transcended-samsara) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
 - [Top Tier Providence, Secretly Cultivate for a Thousand Years](https://wuxiadreams.com/novel/top-tier-providence-secretly-cultivate-for-a-thousand-years) by [Ren Wo Xiao (任我笑)](https://wuxiadreams.com/author/ren-wo-xiao)
 - [Adopting Disaster](https://wuxiadreams.com/novel/adopting-disaster) by [Bonsai Tree](https://wuxiadreams.com/author/bonsai-tree)
+- [I'm an Infinite Regressor, But I've Got Stories to Tell](https://wuxiadreams.com/novel/i-m-an-infinite-regressor-but-i-ve-got-stories-to-tell) by [Sinnoa](https://wuxiadreams.com/author/sinnoa)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
