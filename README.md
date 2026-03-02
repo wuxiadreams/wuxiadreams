@@ -68,6 +68,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Top Tier Providence, Secretly Cultivate for a Thousand Years](https://wuxiadreams.com/novel/top-tier-providence-secretly-cultivate-for-a-thousand-years) by [Ren Wo Xiao (任我笑)](https://wuxiadreams.com/author/ren-wo-xiao)
 - [Adopting Disaster](https://wuxiadreams.com/novel/adopting-disaster) by [Bonsai Tree](https://wuxiadreams.com/author/bonsai-tree)
 - [I'm an Infinite Regressor, But I've Got Stories to Tell](https://wuxiadreams.com/novel/i-m-an-infinite-regressor-but-i-ve-got-stories-to-tell) by [Sinnoa](https://wuxiadreams.com/author/sinnoa)
+- [Advent of the Archmage](https://wuxiadreams.com/novel/advent-of-the-archmage) by [Mo Xiang (墨乡)](https://wuxiadreams.com/author/mo-xiang)
+- [A Depressed Kendo Player Possesses a Bastard Aristocrat](https://wuxiadreams.com/novel/a-depressed-kendo-player-possesses-a-bastard-aristocrat) by [Amateth Hyung ](https://wuxiadreams.com/author/amateth-hyung)
+- [Ascending the Heavens as an Evil God](https://wuxiadreams.com/novel/ascending-the-heavens-as-an-evil-god) by [Qin Ding (钦定)](https://wuxiadreams.com/author/qin-ding)
+- [The World after the Fall](https://wuxiadreams.com/novel/the-world-after-the-fall) by [Sing-shong](https://wuxiadreams.com/author/sing-shong)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
