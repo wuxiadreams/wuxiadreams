@@ -72,6 +72,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [A Depressed Kendo Player Possesses a Bastard Aristocrat](https://wuxiadreams.com/novel/a-depressed-kendo-player-possesses-a-bastard-aristocrat) by [Amateth Hyung ](https://wuxiadreams.com/author/amateth-hyung)
 - [Ascending the Heavens as an Evil God](https://wuxiadreams.com/novel/ascending-the-heavens-as-an-evil-god) by [Qin Ding (钦定)](https://wuxiadreams.com/author/qin-ding)
 - [The World after the Fall](https://wuxiadreams.com/novel/the-world-after-the-fall) by [Sing-shong](https://wuxiadreams.com/author/sing-shong)
+- [The Divine Hunter](https://wuxiadreams.com/novel/the-divine-hunter) by [Reaper Scans (隐约点)](https://wuxiadreams.com/author/reaper-scans)
+- [Return of the Mount Hua Sect](https://wuxiadreams.com/novel/return-of-the-mount-hua-sect) by [Biga](https://wuxiadreams.com/author/biga)
+- [I Just Inherited The Arcane Emperor's Legacy](https://wuxiadreams.com/novel/i-just-inherited-the-arcane-emperor-s-legacy) by [WhiteNightingale](https://wuxiadreams.com/author/whitenightingale)
+- [Solo Farming In The Tower](https://wuxiadreams.com/novel/solo-farming-in-the-tower) by [Lee Hae-kyung](https://wuxiadreams.com/author/lee-hae-kyung)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
