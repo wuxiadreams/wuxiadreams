@@ -27,6 +27,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [This Game is Too Realistic](https://wuxiadreams.com/novel/this-game-is-too-realistic) by [Morning Star LL (晨星LL)](https://wuxiadreams.com/author/morning-star-ll)
 - [Who Let Him Cultivate Immortality](https://wuxiadreams.com/novel/who-let-him-cultivate-immortality) by [The Whitest Crow (最白的乌鸦)](https://wuxiadreams.com/author/the-whitest-crow)
 - [I Can Copy Talents](https://wuxiadreams.com/novel/i-can-copy-talents) by [Invincible Sword God (剑神无敌)](https://wuxiadreams.com/author/invincible-sword-god)
+- [Martial Peak](https://wuxiadreams.com/novel/martial-peak) by [Momo (莫默)](https://wuxiadreams.com/author/momo)
 - [I Am God!](https://wuxiadreams.com/novel/i-am-god) by [LSLCCF (历史里吹吹风)](https://wuxiadreams.com/author/li-shi-li-chui-chui-feng)
 - [Archean Eon Art](https://wuxiadreams.com/novel/archean-eon-art) by [I Eat Tomatoes (我吃西红柿)](https://wuxiadreams.com/author/i-eat-tomatoes)
 - [The Snowy Path of the Heroic Blade](https://wuxiadreams.com/novel/the-snowy-path-of-the-heroic-blade) by [Feng Huo Xi Zhu Hou (烽火戏诸侯)](https://wuxiadreams.com/author/feng-huo-xi-zhu-hou)
@@ -76,6 +77,13 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Return of the Mount Hua Sect](https://wuxiadreams.com/novel/return-of-the-mount-hua-sect) by [Biga](https://wuxiadreams.com/author/biga)
 - [I Just Inherited The Arcane Emperor's Legacy](https://wuxiadreams.com/novel/i-just-inherited-the-arcane-emperor-s-legacy) by [WhiteNightingale](https://wuxiadreams.com/author/whitenightingale)
 - [Solo Farming In The Tower](https://wuxiadreams.com/novel/solo-farming-in-the-tower) by [Lee Hae-kyung](https://wuxiadreams.com/author/lee-hae-kyung)
+- [The Legendary Mechanic](https://wuxiadreams.com/novel/the-legendary-mechanic) by [Qi Peijia (齐佩甲)](https://wuxiadreams.com/author/qi-peijia)
+- [The Author's POV](https://wuxiadreams.com/novel/the-author-s-pov) by [Entrail_JI](https://wuxiadreams.com/author/entrail-ji)
+- [Sword God in a World of Magic](https://wuxiadreams.com/novel/sword-god-in-a-world-of-magic) by [Warmaisach](https://wuxiadreams.com/author/warmaisach)
+- [SSS-Class Suicide Hunter](https://wuxiadreams.com/novel/sss-class-suicide-hunter) by [Shin Noah](https://wuxiadreams.com/author/shin-noah)
+- [Paladin of the Dead God](https://wuxiadreams.com/novel/paladin-of-the-dead-god) by [Chomae](https://wuxiadreams.com/author/chomae)
+- [Omniscient Reader's Viewpoint](https://wuxiadreams.com/novel/omniscient-reader-s-viewpoint) by [Sing-shong](https://wuxiadreams.com/author/sing-shong)
+- [I'll Quit Being a God](https://wuxiadreams.com/novel/i-ll-quit-being-a-god) by [July Wine Immortal](https://wuxiadreams.com/author/july-wine-immortal)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
