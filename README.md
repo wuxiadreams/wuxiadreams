@@ -84,6 +84,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Paladin of the Dead God](https://wuxiadreams.com/novel/paladin-of-the-dead-god) by [Chomae](https://wuxiadreams.com/author/chomae)
 - [Omniscient Reader's Viewpoint](https://wuxiadreams.com/novel/omniscient-reader-s-viewpoint) by [Sing-shong](https://wuxiadreams.com/author/sing-shong)
 - [I'll Quit Being a God](https://wuxiadreams.com/novel/i-ll-quit-being-a-god) by [July Wine Immortal](https://wuxiadreams.com/author/july-wine-immortal)
+- [A Regressor's Tale of Cultivation](https://wuxiadreams.com/novel/a-regressor-s-tale-of-cultivation) by [Tremendous](https://wuxiadreams.com/author/tremendous)
+- [Lord of the Oasis](https://wuxiadreams.com/novel/lord-of-the-oasis) by [Ji Mansion's Old Zhao (济府老赵)](https://wuxiadreams.com/author/ji-mansion-s-old-zhao)
+- [Reincarnated With The Strongest System](https://wuxiadreams.com/novel/reincarnated-with-the-strongest-system) by [Elyon](https://wuxiadreams.com/author/elyon)
+- [The Baby Raising A Devil](https://wuxiadreams.com/novel/the-baby-raising-a-devil) by [Lisya](https://wuxiadreams.com/author/lisya)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
