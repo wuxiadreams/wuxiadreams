@@ -88,6 +88,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Lord of the Oasis](https://wuxiadreams.com/novel/lord-of-the-oasis) by [Ji Mansion's Old Zhao (济府老赵)](https://wuxiadreams.com/author/ji-mansion-s-old-zhao)
 - [Reincarnated With The Strongest System](https://wuxiadreams.com/novel/reincarnated-with-the-strongest-system) by [Elyon](https://wuxiadreams.com/author/elyon)
 - [The Baby Raising A Devil](https://wuxiadreams.com/novel/the-baby-raising-a-devil) by [Lisya](https://wuxiadreams.com/author/lisya)
+- [Advent of the Three Calamities](https://wuxiadreams.com/novel/advent-of-the-three-calamities) by [Entrail_JI](https://wuxiadreams.com/author/entrail-ji)
+- [Kill the Sun](https://wuxiadreams.com/novel/kill-the-sun) by [Warmaisach](https://wuxiadreams.com/author/warmaisach)
+- [My House of Horrors](https://wuxiadreams.com/novel/my-house-of-horrors) by [I Can Fix Air-Conditioner (我会修空调)](https://wuxiadreams.com/author/i-can-fix-air-conditioner)
+- [The Reincarnated Extra](https://wuxiadreams.com/novel/the-reincarnated-extra) by [Murasaki Murabe](https://wuxiadreams.com/author/murasaki-murabe)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
