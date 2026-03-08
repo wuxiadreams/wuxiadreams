@@ -96,6 +96,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [The Legend of Futian](https://wuxiadreams.com/novel/the-legend-of-futian) by [Jing Wu Hen (净无痕)](https://wuxiadreams.com/author/jing-wu-hen)
 - [I Alone Level-Up](https://wuxiadreams.com/novel/i-alone-level-up) by [Gee So-Lyung](https://wuxiadreams.com/author/gee-so-lyung)
 - [Why Should I Stop Being a Villain](https://wuxiadreams.com/novel/why-should-i-stop-being-a-villain) by [Raos_IOI](https://wuxiadreams.com/author/raos-ioi)
+- [World's Best Martial Artist](https://wuxiadreams.com/novel/world-s-best-martial-artist) by [Eagle Eats Chicken (老鹰吃小鸡)](https://wuxiadreams.com/author/eagle-eats-chicken)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
