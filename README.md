@@ -92,6 +92,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Kill the Sun](https://wuxiadreams.com/novel/kill-the-sun) by [Warmaisach](https://wuxiadreams.com/author/warmaisach)
 - [My House of Horrors](https://wuxiadreams.com/novel/my-house-of-horrors) by [I Can Fix Air-Conditioner (我会修空调)](https://wuxiadreams.com/author/i-can-fix-air-conditioner)
 - [The Reincarnated Extra](https://wuxiadreams.com/novel/the-reincarnated-extra) by [Murasaki Murabe](https://wuxiadreams.com/author/murasaki-murabe)
+- [Tribulation of Myriad Races](https://wuxiadreams.com/novel/tribulation-of-myriad-races) by [Eagle Eats Chicken (老鹰吃小鸡)](https://wuxiadreams.com/author/eagle-eats-chicken)
+- [The Legend of Futian](https://wuxiadreams.com/novel/the-legend-of-futian) by [Jing Wu Hen (净无痕)](https://wuxiadreams.com/author/jing-wu-hen)
+- [I Alone Level-Up](https://wuxiadreams.com/novel/i-alone-level-up) by [Gee So-Lyung](https://wuxiadreams.com/author/gee-so-lyung)
+- [Why Should I Stop Being a Villain](https://wuxiadreams.com/novel/why-should-i-stop-being-a-villain) by [Raos_IOI](https://wuxiadreams.com/author/raos-ioi)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
