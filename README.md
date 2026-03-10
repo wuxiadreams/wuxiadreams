@@ -100,6 +100,16 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Wu Dong Qian Kun（Martial Universe）](https://wuxiadreams.com/novel/wu-dong-qian-kun) by [Heavenly Silkworm Potato (天蚕土豆)](https://wuxiadreams.com/author/heavenly-silkworm-potato)
 - [Revenge of the Iron-blooded Sword Hound](https://wuxiadreams.com/novel/revenge-of-the-iron-blooded-sword-hound) by [Regobal Basso](https://wuxiadreams.com/author/regobal-basso)
 - [The Beginning After The End](https://wuxiadreams.com/novel/the-beginning-after-the-end) by [Turtleme93](https://wuxiadreams.com/author/turtleme93)
+- [Shrouding the Heavens](https://wuxiadreams.com/novel/shrouding-the-heavens) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
+- [I Shall Seal the Heavens](https://wuxiadreams.com/novel/i-shall-seal-the-heavens) by [Er Gen (耳根)](https://wuxiadreams.com/author/er-gen)
+- [The Female Supporting Character Just Wants To Live A Good Life](https://wuxiadreams.com/novel/the-female-supporting-character-just-wants-to-live-a-good-life) by [Old Man Salted Fish (咸鱼老人)](https://wuxiadreams.com/author/old-man-salted-fish)
+- [A Villain's Will to Survive](https://wuxiadreams.com/novel/a-villain-s-will-to-survive) by [Ji-gab-song](https://wuxiadreams.com/author/ji-gab-song)
+- [Academy's Second Seat](https://wuxiadreams.com/novel/academy-s-second-seat) by [Maemi Yoon](https://wuxiadreams.com/author/maemi-yoon)
+- [Cultivation Online](https://wuxiadreams.com/novel/cultivation-online) by [MyLittleBrother](https://wuxiadreams.com/author/mylittlebrother)
+- [Dual Cultivation](https://wuxiadreams.com/novel/dual-cultivation) by [MyLittleBrother](https://wuxiadreams.com/author/mylittlebrother)
+- [Hunter Academy: Revenge of the Weakest](https://wuxiadreams.com/novel/hunter-academy-revenge-of-the-weakest) by [Darkness_Enjoyer](https://wuxiadreams.com/author/darkness-enjoyer)
+- [My Three Wives Are Beautiful Vampires](https://wuxiadreams.com/novel/my-three-wives-are-beautiful-vampires) by [Victor_Weismann](https://wuxiadreams.com/author/victor-weismann)
+- [Nine Star Hegemon Body Arts](https://wuxiadreams.com/novel/nine-star-hegemon-body-arts) by [Ordinary Magician (平凡魔术师)](https://wuxiadreams.com/author/ordinary-magician)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
