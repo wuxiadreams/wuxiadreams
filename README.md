@@ -110,6 +110,16 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Hunter Academy: Revenge of the Weakest](https://wuxiadreams.com/novel/hunter-academy-revenge-of-the-weakest) by [Darkness_Enjoyer](https://wuxiadreams.com/author/darkness-enjoyer)
 - [My Three Wives Are Beautiful Vampires](https://wuxiadreams.com/novel/my-three-wives-are-beautiful-vampires) by [Victor_Weismann](https://wuxiadreams.com/author/victor-weismann)
 - [Nine Star Hegemon Body Arts](https://wuxiadreams.com/novel/nine-star-hegemon-body-arts) by [Ordinary Magician (平凡魔术师)](https://wuxiadreams.com/author/ordinary-magician)
+- [Pursuit of the Truth](https://wuxiadreams.com/novel/pursuit-of-the-truth) by [Er Gen (耳根)](https://wuxiadreams.com/author/er-gen)
+- [A Will Eternal](https://wuxiadreams.com/novel/a-will-eternal) by [Er Gen (耳根)](https://wuxiadreams.com/author/er-gen)
+- [Shadow Slave](https://wuxiadreams.com/novel/shadow-slave) by [Guiltythree](https://wuxiadreams.com/author/guiltythree)
+- [I'm Really Not The Demon God's Lackey](https://wuxiadreams.com/novel/i-m-really-not-the-demon-god-s-lackey) by [Eternal Ember of Calamity (万劫火)](https://wuxiadreams.com/author/eternal-ember-of-calamity)
+- [Let Me Game in Peace](https://wuxiadreams.com/novel/let-me-game-in-peace) by [Twelve-Winged Dark Seraphim (十二翼黑暗炽天使)](https://wuxiadreams.com/author/twelve-winged-dark-seraphim)
+- [Library of Heaven's Path](https://wuxiadreams.com/novel/library-of-heaven-s-path) by [Heng Sao Tian Ya (横扫天涯)](https://wuxiadreams.com/author/heng-sao-tian-ya)
+- [My Vampire System](https://wuxiadreams.com/novel/my-vampire-system) by [Jksmanga](https://wuxiadreams.com/author/jksmanga)
+- [Nano Machine](https://wuxiadreams.com/novel/nano-machine) by [Midsummer Night](https://wuxiadreams.com/author/midsummer-night)
+- [The Innkeeper](https://wuxiadreams.com/novel/the-innkeeper) by [lifesketcher](https://wuxiadreams.com/author/lifesketcher)
+- [The Steward Demonic Emperor](https://wuxiadreams.com/novel/the-steward-demonic-emperor) by [Night Owl (夜枭)](https://wuxiadreams.com/author/night-owl)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
