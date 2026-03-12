@@ -120,6 +120,12 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Nano Machine](https://wuxiadreams.com/novel/nano-machine) by [Midsummer Night](https://wuxiadreams.com/author/midsummer-night)
 - [The Innkeeper](https://wuxiadreams.com/novel/the-innkeeper) by [lifesketcher](https://wuxiadreams.com/author/lifesketcher)
 - [The Steward Demonic Emperor](https://wuxiadreams.com/novel/the-steward-demonic-emperor) by [Night Owl (夜枭)](https://wuxiadreams.com/author/night-owl)
+- [A World Worth Protecting](https://wuxiadreams.com/novel/a-world-worth-protecting) by [Er Gen (耳根)](https://wuxiadreams.com/author/er-gen)
+- [Shen Yin Wang Zuo](https://wuxiadreams.com/novel/shen-yin-wang-zuo) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
+- [Douluo Dalu](https://wuxiadreams.com/novel/douluo-dalu) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
+- [Dark Magus Returns](https://wuxiadreams.com/novel/dark-magus-returns) by [Jksmanga](https://wuxiadreams.com/author/jksmanga)
+- [Naruto: The Wind Calamity](https://wuxiadreams.com/novel/naruto-the-wind-calamity) by [Devil_Hex](https://wuxiadreams.com/author/devil-hex)
+- [Reverend Insanity](https://wuxiadreams.com/novel/reverend-insanity) by [Gu Zhen Ren (蛊真人)](https://wuxiadreams.com/author/gu-zhen-ren)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
