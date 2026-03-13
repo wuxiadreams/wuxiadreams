@@ -127,6 +127,9 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Naruto: The Wind Calamity](https://wuxiadreams.com/novel/naruto-the-wind-calamity) by [Devil_Hex](https://wuxiadreams.com/author/devil-hex)
 - [Reverend Insanity](https://wuxiadreams.com/novel/reverend-insanity) by [Gu Zhen Ren (蛊真人)](https://wuxiadreams.com/author/gu-zhen-ren)
 - [Douluo Dalu 3: The Legend of the Dragon King](https://wuxiadreams.com/novel/the-legend-of-the-dragon-king) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
+- [Fey Evolution Merchant](https://wuxiadreams.com/novel/fey-evolution-merchant) by [Amber Button (琥珀纽扣)](https://wuxiadreams.com/author/amber-button)
+- [Lord of the Truth](https://wuxiadreams.com/novel/lord-of-the-truth) by [TruthTeller](https://wuxiadreams.com/author/truthteller)
+- [God Rank Upgrade System](https://wuxiadreams.com/novel/god-rank-upgrade-system) by [Master Minesweeper (扫雷大师)](https://wuxiadreams.com/author/master-minesweeper)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
