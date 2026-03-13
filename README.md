@@ -126,6 +126,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Dark Magus Returns](https://wuxiadreams.com/novel/dark-magus-returns) by [Jksmanga](https://wuxiadreams.com/author/jksmanga)
 - [Naruto: The Wind Calamity](https://wuxiadreams.com/novel/naruto-the-wind-calamity) by [Devil_Hex](https://wuxiadreams.com/author/devil-hex)
 - [Reverend Insanity](https://wuxiadreams.com/novel/reverend-insanity) by [Gu Zhen Ren (蛊真人)](https://wuxiadreams.com/author/gu-zhen-ren)
+- [Douluo Dalu 3: The Legend of the Dragon King](https://wuxiadreams.com/novel/the-legend-of-the-dragon-king) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
