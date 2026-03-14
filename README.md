@@ -130,6 +130,12 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Fey Evolution Merchant](https://wuxiadreams.com/novel/fey-evolution-merchant) by [Amber Button (琥珀纽扣)](https://wuxiadreams.com/author/amber-button)
 - [Lord of the Truth](https://wuxiadreams.com/novel/lord-of-the-truth) by [TruthTeller](https://wuxiadreams.com/author/truthteller)
 - [God Rank Upgrade System](https://wuxiadreams.com/novel/god-rank-upgrade-system) by [Master Minesweeper (扫雷大师)](https://wuxiadreams.com/author/master-minesweeper)
+- [Heavenly Jewel Change](https://wuxiadreams.com/novel/heavenly-jewel-change) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
+- [The Sacred Ruins](https://wuxiadreams.com/novel/the-sacred-ruins) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
+- [Douluo Dalu 2: Unrivaled Tang Sect](https://wuxiadreams.com/novel/unrivaled-tang-sect) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
+- [Unrivaled Medicine God](https://wuxiadreams.com/novel/unrivaled-medicine-god) by [Feng Yise (风一色)](https://wuxiadreams.com/author/feng-yise)
+- [I'm the King Of Technology](https://wuxiadreams.com/novel/i-m-the-king-of-technology) by [Lumydee](https://wuxiadreams.com/author/lumydee)
+- [Primordial Star Scripture](https://wuxiadreams.com/novel/primordial-star-scripture) by [Lu Yao](https://wuxiadreams.com/author/lu-yao)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
