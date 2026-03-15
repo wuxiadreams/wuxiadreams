@@ -136,6 +136,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Unrivaled Medicine God](https://wuxiadreams.com/novel/unrivaled-medicine-god) by [Feng Yise (风一色)](https://wuxiadreams.com/author/feng-yise)
 - [I'm the King Of Technology](https://wuxiadreams.com/novel/i-m-the-king-of-technology) by [Lumydee](https://wuxiadreams.com/author/lumydee)
 - [Primordial Star Scripture](https://wuxiadreams.com/novel/primordial-star-scripture) by [Lu Yao](https://wuxiadreams.com/author/lu-yao)
+- [Perfect World](https://wuxiadreams.com/novel/perfect-world) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
