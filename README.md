@@ -139,6 +139,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Perfect World](https://wuxiadreams.com/novel/perfect-world) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
 - [Peerless Martial God](https://wuxiadreams.com/novel/peerless-martial-god) by [Jing Wu Hen (净无痕)](https://wuxiadreams.com/author/jing-wu-hen)
 - [Deep Sea Embers](https://wuxiadreams.com/novel/deep-sea-embers) by [Yuan Tong (远瞳)](https://wuxiadreams.com/author/yuan-tong)
+- [Martial God Asura](https://wuxiadreams.com/novel/martial-god-asura) by [Kindhearted Bee (善良的蜜蜂)](https://wuxiadreams.com/author/kindhearted-bee)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
