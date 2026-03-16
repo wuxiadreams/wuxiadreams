@@ -138,6 +138,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Primordial Star Scripture](https://wuxiadreams.com/novel/primordial-star-scripture) by [Lu Yao](https://wuxiadreams.com/author/lu-yao)
 - [Perfect World](https://wuxiadreams.com/novel/perfect-world) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
 - [Peerless Martial God](https://wuxiadreams.com/novel/peerless-martial-god) by [Jing Wu Hen (净无痕)](https://wuxiadreams.com/author/jing-wu-hen)
+- [Deep Sea Embers](https://wuxiadreams.com/novel/deep-sea-embers) by [Yuan Tong (远瞳)](https://wuxiadreams.com/author/yuan-tong)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
