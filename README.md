@@ -146,6 +146,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Xyrin Empire](https://wuxiadreams.com/novel/xyrin-empire) by [Yuan Tong (远瞳)](https://wuxiadreams.com/author/yuan-tong)
 - [The Record of Unusual Creatures](https://wuxiadreams.com/novel/the-record-of-unusual-creatures) by [Yuan Tong (远瞳)](https://wuxiadreams.com/author/yuan-tong)
 - [The Venerable Swordsman](https://wuxiadreams.com/novel/the-venerable-swordsman) by [On Azure Phoenix Peak (青鸾峰上)](https://wuxiadreams.com/author/on-azure-phoenix-peak)
+- [Almighty Sword Domain](https://wuxiadreams.com/novel/almighty-sword-domain) by [On Azure Phoenix Peak (青鸾峰上)](https://wuxiadreams.com/author/on-azure-phoenix-peak)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
