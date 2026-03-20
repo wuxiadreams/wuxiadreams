@@ -150,6 +150,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Genetic Ascension](https://wuxiadreams.com/novel/genetic-ascension) by [Awespec](https://wuxiadreams.com/author/awespec)
 - [The Runesmith](https://wuxiadreams.com/novel/the-runesmith) by [Kuropon](https://wuxiadreams.com/author/kuropon)
 - [Void Evolution System](https://wuxiadreams.com/novel/void-evolution-system) by [Crocs_is_Dead](https://wuxiadreams.com/author/crocs-is-dead)
+- [Embers Ad Infinitum](https://wuxiadreams.com/novel/embers-ad-infinitum) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
+- [Scholar's Advanced Technological System](https://wuxiadreams.com/novel/scholar-s-advanced-technological-system) by [Morning Star LL (晨星LL)](https://wuxiadreams.com/author/morning-star-ll)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
