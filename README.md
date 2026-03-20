@@ -152,6 +152,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Void Evolution System](https://wuxiadreams.com/novel/void-evolution-system) by [Crocs_is_Dead](https://wuxiadreams.com/author/crocs-is-dead)
 - [Embers Ad Infinitum](https://wuxiadreams.com/novel/embers-ad-infinitum) by [Cuttlefish That Loves Diving (爱潜水的乌贼)](https://wuxiadreams.com/author/cuttlefish-that-loves-diving)
 - [Scholar's Advanced Technological System](https://wuxiadreams.com/novel/scholar-s-advanced-technological-system) by [Morning Star LL (晨星LL)](https://wuxiadreams.com/author/morning-star-ll)
+- [Supremacy Games](https://wuxiadreams.com/novel/supremacy-games) by [MidGard](https://wuxiadreams.com/author/midgard)
+- [The First Legendary Beast Master](https://wuxiadreams.com/novel/the-first-legendary-beast-master) by [Aoki_Aku](https://wuxiadreams.com/author/aoki-aku)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
