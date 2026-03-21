@@ -154,6 +154,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Scholar's Advanced Technological System](https://wuxiadreams.com/novel/scholar-s-advanced-technological-system) by [Morning Star LL (晨星LL)](https://wuxiadreams.com/author/morning-star-ll)
 - [Supremacy Games](https://wuxiadreams.com/novel/supremacy-games) by [MidGard](https://wuxiadreams.com/author/midgard)
 - [The First Legendary Beast Master](https://wuxiadreams.com/novel/the-first-legendary-beast-master) by [Aoki_Aku](https://wuxiadreams.com/author/aoki-aku)
+- [Trash of the Count's Family](https://wuxiadreams.com/novel/trash-of-the-count-s-family) by [Yoo Ryeo Han](https://wuxiadreams.com/author/yoo-ryeo-han)
+- [Night Without Borders](https://wuxiadreams.com/novel/night-without-borders) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
+- [Stargate](https://wuxiadreams.com/novel/stargate) by [Eagle Eats Chicken (老鹰吃小鸡)](https://wuxiadreams.com/author/eagle-eats-chicken)
+- [Talisman Emperor](https://wuxiadreams.com/novel/talisman-emperor) by [Xiao Jinyu (萧瑾瑜)](https://wuxiadreams.com/author/xiao-jinyu)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
