@@ -158,6 +158,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Night Without Borders](https://wuxiadreams.com/novel/night-without-borders) by [Chen Dong (辰东)](https://wuxiadreams.com/author/chen-dong)
 - [Stargate](https://wuxiadreams.com/novel/stargate) by [Eagle Eats Chicken (老鹰吃小鸡)](https://wuxiadreams.com/author/eagle-eats-chicken)
 - [Talisman Emperor](https://wuxiadreams.com/novel/talisman-emperor) by [Xiao Jinyu (萧瑾瑜)](https://wuxiadreams.com/author/xiao-jinyu)
+- [Strongest Necromancer Of Heaven's Gate](https://wuxiadreams.com/novel/strongest-necromancer-of-heaven-s-gate) by [Elyon](https://wuxiadreams.com/author/elyon)
+- [The Primal Hunter](https://wuxiadreams.com/novel/the-primal-hunter) by [Zogarth](https://wuxiadreams.com/author/zogarth)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
