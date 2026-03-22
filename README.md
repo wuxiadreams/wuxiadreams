@@ -160,6 +160,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Talisman Emperor](https://wuxiadreams.com/novel/talisman-emperor) by [Xiao Jinyu (萧瑾瑜)](https://wuxiadreams.com/author/xiao-jinyu)
 - [Strongest Necromancer Of Heaven's Gate](https://wuxiadreams.com/novel/strongest-necromancer-of-heaven-s-gate) by [Elyon](https://wuxiadreams.com/author/elyon)
 - [The Primal Hunter](https://wuxiadreams.com/novel/the-primal-hunter) by [Zogarth](https://wuxiadreams.com/author/zogarth)
+- [Since The Red Moon Appeared](https://wuxiadreams.com/novel/since-the-red-moon-appeared) by [Hei Shan Lao Gui (黑山老鬼)](https://wuxiadreams.com/author/hei-shan-lao-gui)
+- [Dragon Emperor, Martial God](https://wuxiadreams.com/novel/dragon-emperor-martial-god) by [Bu Zheng (步征)](https://wuxiadreams.com/author/bu-zheng)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
