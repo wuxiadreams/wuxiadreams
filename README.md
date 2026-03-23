@@ -162,6 +162,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [The Primal Hunter](https://wuxiadreams.com/novel/the-primal-hunter) by [Zogarth](https://wuxiadreams.com/author/zogarth)
 - [Since The Red Moon Appeared](https://wuxiadreams.com/novel/since-the-red-moon-appeared) by [Hei Shan Lao Gui (黑山老鬼)](https://wuxiadreams.com/author/hei-shan-lao-gui)
 - [Dragon Emperor, Martial God](https://wuxiadreams.com/novel/dragon-emperor-martial-god) by [Bu Zheng (步征)](https://wuxiadreams.com/author/bu-zheng)
+- [Legend of the Great Sage](https://wuxiadreams.com/novel/legend-of-the-great-sage) by [Dream Teller (说梦者)](https://wuxiadreams.com/author/dream-teller)
+- [Ancient One](https://wuxiadreams.com/novel/ancient-one) by [Tai Yi Sheng Shui (太一生水)](https://wuxiadreams.com/author/tai-yi-sheng-shui)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
