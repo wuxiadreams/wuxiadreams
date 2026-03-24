@@ -164,6 +164,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Dragon Emperor, Martial God](https://wuxiadreams.com/novel/dragon-emperor-martial-god) by [Bu Zheng (步征)](https://wuxiadreams.com/author/bu-zheng)
 - [Legend of the Great Sage](https://wuxiadreams.com/novel/legend-of-the-great-sage) by [Dream Teller (说梦者)](https://wuxiadreams.com/author/dream-teller)
 - [Ancient One](https://wuxiadreams.com/novel/ancient-one) by [Tai Yi Sheng Shui (太一生水)](https://wuxiadreams.com/author/tai-yi-sheng-shui)
+- [My Disciples Are All Villains](https://wuxiadreams.com/novel/my-disciples-are-all-villains) by [Mou Sheng Ren Zhuan Peng (谋生任转蓬)](https://wuxiadreams.com/author/mou-sheng-ren-zhuan-peng)
+- [Joy of Life](https://wuxiadreams.com/novel/joy-of-life) by [Mao Ni (猫腻)](https://wuxiadreams.com/author/mao-ni)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
