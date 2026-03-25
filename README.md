@@ -18,7 +18,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 
 **Visit the site to begin your journey**:​ https://wuxiadreams.com
 
-## Top novels
+## Novel List
 
 - [Soul Land 5: The Rebirth of Tang San](https://wuxiadreams.com/novel/soul-land-5-the-rebirth-of-tang-san) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
 - [Douluo Dalu 4: Ultimate Fighting](https://wuxiadreams.com/novel/douluo-dalu-4-ultimate-fighting) by [Tang Jia San Shao (唐家三少)](https://wuxiadreams.com/author/tang-jia-san-shao)
@@ -170,6 +170,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Nightfall](https://wuxiadreams.com/novel/nightfall) by [Mao Ni (猫腻)](https://wuxiadreams.com/author/mao-ni)
 - [Long Live Summons!](https://wuxiadreams.com/novel/long-live-summons) by [Xia Fei Shuang Jia (霞飞双颊)](https://wuxiadreams.com/author/xia-fei-shuang-jia)
 - [Unparalleled After Ten Consecutive Draws](https://wuxiadreams.com/novel/unparalleled-after-ten-consecutive-draws) by [Carefree Smile (流风笑)](https://wuxiadreams.com/author/carefree-smile)
+- [Childhood Friend of the Zenith](https://wuxiadreams.com/novel/childhood-friend-of-the-zenith) by [Rainram Woo](https://wuxiadreams.com/author/rainram-woo)
+- [Infinite Mana In The Apocalypse](https://wuxiadreams.com/novel/infinite-mana-in-the-apocalypse) by [Adui](https://wuxiadreams.com/author/adui)
+- [My Werewolf System](https://wuxiadreams.com/novel/my-werewolf-system) by [Jksmanga](https://wuxiadreams.com/author/jksmanga)
+- [Overgeared](https://wuxiadreams.com/novel/overgeared) by [Park Saenal](https://wuxiadreams.com/novel/overgeared)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
