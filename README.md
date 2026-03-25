@@ -166,6 +166,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Ancient One](https://wuxiadreams.com/novel/ancient-one) by [Tai Yi Sheng Shui (太一生水)](https://wuxiadreams.com/author/tai-yi-sheng-shui)
 - [My Disciples Are All Villains](https://wuxiadreams.com/novel/my-disciples-are-all-villains) by [Mou Sheng Ren Zhuan Peng (谋生任转蓬)](https://wuxiadreams.com/author/mou-sheng-ren-zhuan-peng)
 - [Joy of Life](https://wuxiadreams.com/novel/joy-of-life) by [Mao Ni (猫腻)](https://wuxiadreams.com/author/mao-ni)
+- [The Path Toward Heaven](https://wuxiadreams.com/novel/the-path-toward-heaven) by [Mao Ni (猫腻)](https://wuxiadreams.com/author/mao-ni)
+- [Nightfall](https://wuxiadreams.com/novel/nightfall) by [Mao Ni (猫腻)](https://wuxiadreams.com/author/mao-ni)
+- [Long Live Summons!](https://wuxiadreams.com/novel/long-live-summons) by [Xia Fei Shuang Jia (霞飞双颊)](https://wuxiadreams.com/author/xia-fei-shuang-jia)
+- [Unparalleled After Ten Consecutive Draws](https://wuxiadreams.com/novel/unparalleled-after-ten-consecutive-draws) by [Carefree Smile (流风笑)](https://wuxiadreams.com/author/carefree-smile)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
