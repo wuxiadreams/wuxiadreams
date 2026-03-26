@@ -174,6 +174,9 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Infinite Mana In The Apocalypse](https://wuxiadreams.com/novel/infinite-mana-in-the-apocalypse) by [Adui](https://wuxiadreams.com/author/adui)
 - [My Werewolf System](https://wuxiadreams.com/novel/my-werewolf-system) by [Jksmanga](https://wuxiadreams.com/author/jksmanga)
 - [Overgeared](https://wuxiadreams.com/novel/overgeared) by [Park Saenal](https://wuxiadreams.com/novel/overgeared)
+- [Paragon Of Sin](https://wuxiadreams.com/novel/paragon-of-sin) by [Kevinascending](https://wuxiadreams.com/author/kevinascending)
+- [My Longevity Simulation](https://wuxiadreams.com/novel/my-longevity-simulation) by [angry squid (愤怒的乌贼)](https://wuxiadreams.com/author/angry-squid)
+- [Immortal and Martial Dual Cultivation](https://wuxiadreams.com/novel/immortal-and-martial-dual-cultivation) by [Fiery Moon (月如火)](https://wuxiadreams.com/author/fiery-moon)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
