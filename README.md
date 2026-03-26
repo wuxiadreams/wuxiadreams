@@ -177,6 +177,9 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Paragon Of Sin](https://wuxiadreams.com/novel/paragon-of-sin) by [Kevinascending](https://wuxiadreams.com/author/kevinascending)
 - [My Longevity Simulation](https://wuxiadreams.com/novel/my-longevity-simulation) by [angry squid (愤怒的乌贼)](https://wuxiadreams.com/author/angry-squid)
 - [Immortal and Martial Dual Cultivation](https://wuxiadreams.com/novel/immortal-and-martial-dual-cultivation) by [Fiery Moon (月如火)](https://wuxiadreams.com/author/fiery-moon)
+- [Eternal Sacred King](https://wuxiadreams.com/novel/eternal-sacred-king) by [Snow-filled Bow Saber (雪满弓刀)](https://wuxiadreams.com/author/snow-filled-bow-saber)
+- [Swordmaster's Youngest Son](https://wuxiadreams.com/novel/swordmaster-s-youngest-son) by [Emperor Penguin](https://wuxiadreams.com/author/emperor-penguin)
+- [The Martial Unity](https://wuxiadreams.com/novel/the-martial-unity) by [Lord_Streak](https://wuxiadreams.com/author/lord-streak)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
