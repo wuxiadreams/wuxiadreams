@@ -180,6 +180,10 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Eternal Sacred King](https://wuxiadreams.com/novel/eternal-sacred-king) by [Snow-filled Bow Saber (雪满弓刀)](https://wuxiadreams.com/author/snow-filled-bow-saber)
 - [Swordmaster's Youngest Son](https://wuxiadreams.com/novel/swordmaster-s-youngest-son) by [Emperor Penguin](https://wuxiadreams.com/author/emperor-penguin)
 - [The Martial Unity](https://wuxiadreams.com/novel/the-martial-unity) by [Lord_Streak](https://wuxiadreams.com/author/lord-streak)
+- [Insanely Pampered Wife: Divine Doctor Fifth Young Miss](https://wuxiadreams.com/novel/insanely-pampered-wife-divine-doctor-fifth-young-miss) by [Shan Gu Mu (爆扇骨木)](https://wuxiadreams.com/author/shan-gu-mu)
+- [The Sword Dynasty](https://wuxiadreams.com/novel/the-sword-dynasty) by [Not Guilty (无罪)](https://wuxiadreams.com/author/not-guilty)
+- [Spirit Sword Venerable，Spirit Sword Sovereign](https://wuxiadreams.com/novel/spirit-sword-venerable) by [Cloud Sky (云天空)](https://wuxiadreams.com/author/cloud-sky)
+- [Journey of the Fate Destroying Emperor](https://wuxiadreams.com/novel/journey-of-the-fate-destroying-emperor) by [LazySageDao](https://wuxiadreams.com/author/lazysagedao)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
