@@ -182,7 +182,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [The Martial Unity](https://wuxiadreams.com/novel/the-martial-unity) by [Lord_Streak](https://wuxiadreams.com/author/lord-streak)
 - [Insanely Pampered Wife: Divine Doctor Fifth Young Miss](https://wuxiadreams.com/novel/insanely-pampered-wife-divine-doctor-fifth-young-miss) by [Shan Gu Mu (爆扇骨木)](https://wuxiadreams.com/author/shan-gu-mu)
 - [The Sword Dynasty](https://wuxiadreams.com/novel/the-sword-dynasty) by [Not Guilty (无罪)](https://wuxiadreams.com/author/not-guilty)
-- [Spirit Sword Venerable，Spirit Sword Sovereign](https://wuxiadreams.com/novel/spirit-sword-venerable) by [Cloud Sky (云天空)](https://wuxiadreams.com/author/cloud-sky)
+- [Spirit Sword Venerable](https://wuxiadreams.com/novel/spirit-sword-venerable) by [Cloud Sky (云天空)](https://wuxiadreams.com/author/cloud-sky)
 - [Journey of the Fate Destroying Emperor](https://wuxiadreams.com/novel/journey-of-the-fate-destroying-emperor) by [LazySageDao](https://wuxiadreams.com/author/lazysagedao)
 
 <!--
