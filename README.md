@@ -186,6 +186,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Journey of the Fate Destroying Emperor](https://wuxiadreams.com/novel/journey-of-the-fate-destroying-emperor) by [LazySageDao](https://wuxiadreams.com/author/lazysagedao)
 - [The Ultimate Sword King](http://wuxiadreams.com/novel/the-ultimate-sword-king) by [Jiujie Sanren (九届散人)](https://wuxiadreams.com/author/jiujie-sanren)
 - [Eternal Cultivation of Alchemy](https://wuxiadreams.com/novel/eternal-cultivation-of-alchemy) by [Snoring_Panda](https://wuxiadreams.com/author/snoring-panda)
+- [Pursuit of Jade](https://wuxiadreams.com/novel/pursuit-of-jade) by [Tuanzi Laixi (团子来袭)](https://wuxiadreams.com/author/tuanzi-laixi)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
