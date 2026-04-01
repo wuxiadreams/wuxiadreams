@@ -188,6 +188,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Eternal Cultivation of Alchemy](https://wuxiadreams.com/novel/eternal-cultivation-of-alchemy) by [Snoring_Panda](https://wuxiadreams.com/author/snoring-panda)
 - [Pursuit of Jade](https://wuxiadreams.com/novel/pursuit-of-jade) by [Tuanzi Laixi (团子来袭)](https://wuxiadreams.com/author/tuanzi-laixi)
 - [Everlasting Dragon Emperor](https://wuxiadreams.com/novel/everlasting-dragon-emperor)) by [Mu Tong Ting Zhu (牧童听竹)](https://wuxiadreams.com/author/mu-tong-ting-zhu)
+- [Rebirth (Bing Hu Chong Sheng)](https://wuxiadreams.com/novel/rebirth-bing-hu-chong-sheng) by [Xiao Xiang Dong Er (潇湘冬儿)](https://wuxiadreams.com/author/xiao-xiang-dong-er)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
