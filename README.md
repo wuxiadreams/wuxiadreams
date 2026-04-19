@@ -189,6 +189,11 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Pursuit of Jade](https://wuxiadreams.com/novel/pursuit-of-jade) by [Tuanzi Laixi (团子来袭)](https://wuxiadreams.com/author/tuanzi-laixi)
 - [Everlasting Dragon Emperor](https://wuxiadreams.com/novel/everlasting-dragon-emperor)) by [Mu Tong Ting Zhu (牧童听竹)](https://wuxiadreams.com/author/mu-tong-ting-zhu)
 - [Rebirth (Bing Hu Chong Sheng)](https://wuxiadreams.com/novel/rebirth-bing-hu-chong-sheng) by [Xiao Xiang Dong Er (潇湘冬儿)](https://wuxiadreams.com/author/xiao-xiang-dong-er)
+- [Poisoning the World: The Secret Service Mysterious Doctor is a Young Beastly Wife](https://wuxiadreams.com/novel/poisoning-the-world-the-secret-service-mysterious-doctor-is-a-young-beastly-wife) by [Mu Dan Feng (穆丹枫)](https://wuxiadreams.com/author/mu-dan-feng)
+- [Heavenly Divine Secrets](https://wuxiadreams.com/novel/heavenly-divine-secrets) by [Tai Yi Sheng Shui (太一生水)](https://wuxiadreams.com/author/tai-yi-sheng-shui)
+- [The Rebirth of the Malicious Empress of Military Lineage](https://wuxiadreams.com/novel/the-rebirth-of-the-malicious-empress-of-military-lineage) by [Qian Shan Cha Ke (千山茶客)](https://wuxiadreams.com/author/qian-shan-cha-ke)
+- [Whispers of fate](https://wuxiadreams.com/novel/whispers-of-fate) by [Teng Ping (藤萍)](https://wuxiadreams.com/author/teng-ping)
+- [Everlasting Dragon Emperor](https://wuxiadreams.com/novel/everlasting-dragon-emperor) by [Mu Tong Ting Zhu (牧童听竹)](https://wuxiadreams.com/author/mu-tong-ting-zhu) 
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
