@@ -193,7 +193,8 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Heavenly Divine Secrets](https://wuxiadreams.com/novel/heavenly-divine-secrets) by [Tai Yi Sheng Shui (太一生水)](https://wuxiadreams.com/author/tai-yi-sheng-shui)
 - [The Rebirth of the Malicious Empress of Military Lineage](https://wuxiadreams.com/novel/the-rebirth-of-the-malicious-empress-of-military-lineage) by [Qian Shan Cha Ke (千山茶客)](https://wuxiadreams.com/author/qian-shan-cha-ke)
 - [Whispers of fate](https://wuxiadreams.com/novel/whispers-of-fate) by [Teng Ping (藤萍)](https://wuxiadreams.com/author/teng-ping)
-- [Everlasting Dragon Emperor](https://wuxiadreams.com/novel/everlasting-dragon-emperor) by [Mu Tong Ting Zhu (牧童听竹)](https://wuxiadreams.com/author/mu-tong-ting-zhu) 
+- [Everlasting Dragon Emperor](https://wuxiadreams.com/novel/everlasting-dragon-emperor) by [Mu Tong Ting Zhu (牧童听竹)](https://wuxiadreams.com/author/mu-tong-ting-zhu)
+- [Fifteen Days between Two Capitals (Liang Jing Shi Wu Ri)](https://wuxiadreams.com/novel/fifteen-days-between-two-capitals) by [Ma Bo Yong (马伯庸)](https://wuxiadreams.com/author/ma-bo-yong)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
