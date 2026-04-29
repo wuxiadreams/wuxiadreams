@@ -195,6 +195,7 @@ Whether you are a long-time fan of authors like Jin Yong or a newcomer curious a
 - [Whispers of fate](https://wuxiadreams.com/novel/whispers-of-fate) by [Teng Ping (藤萍)](https://wuxiadreams.com/author/teng-ping)
 - [Everlasting Dragon Emperor](https://wuxiadreams.com/novel/everlasting-dragon-emperor) by [Mu Tong Ting Zhu (牧童听竹)](https://wuxiadreams.com/author/mu-tong-ting-zhu)
 - [Fifteen Days between Two Capitals (Liang Jing Shi Wu Ri)](https://wuxiadreams.com/novel/fifteen-days-between-two-capitals) by [Ma Bo Yong (马伯庸)](https://wuxiadreams.com/author/ma-bo-yong)
+- [The Husky and His White Cat Shizun](https://wuxiadreams.com/novel/the-husky-and-his-white-cat-shizun) by [Meatbun Doesn't Eat Meat (肉包不吃肉)](https://wuxiadreams.com/author/meatbun-doesn-t-eat-meat)
 
 <!--
 **wuxiadreams/wuxiadreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
